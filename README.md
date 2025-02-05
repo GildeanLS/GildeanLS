@@ -56,5 +56,9 @@ Olá,
   </a>
 </p>
 
-![Snake animation](https://github.com/GildeanLS/GildeanLS/raw/main/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GildeanLS/GildeanLS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GildeanLS/GildeanLS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GildeanLS/GildeanLS/output/github-contribution-grid-snake.svg">
+</picture>
 
