@@ -43,7 +43,6 @@ Olá,
   <a href="gildean1999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
   </a>
 
@@ -56,4 +55,6 @@ Olá,
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
+![Snake animation](https://github.com/GildeanLS/GildeanLS/raw/main/output/github-contribution-grid-snake.svg)
 
