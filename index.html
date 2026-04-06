@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mini Game | Pedra, Papel e Tesoura</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>🎮 Pedra, Papel e Tesoura</h1>
+      <p>Escolha uma jogada e tente vencer o computador.</p>
+
+      <section class="buttons" aria-label="Escolhas do jogador">
+        <button data-choice="pedra">🪨 Pedra</button>
+        <button data-choice="papel">📄 Papel</button>
+        <button data-choice="tesoura">✂️ Tesoura</button>
+      </section>
+
+      <section class="status" aria-live="polite">
+        <p><strong>Você:</strong> <span id="playerChoice">-</span></p>
+        <p><strong>Computador:</strong> <span id="cpuChoice">-</span></p>
+        <p id="result">Faça sua jogada!</p>
+      </section>
+
+      <section class="scoreboard">
+        <p>🏆 Você: <span id="playerScore">0</span></p>
+        <p>🤖 CPU: <span id="cpuScore">0</span></p>
+      </section>
+
+      <button id="resetBtn" class="reset">Reiniciar placar</button>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

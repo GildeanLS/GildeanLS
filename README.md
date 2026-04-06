@@ -66,3 +66,15 @@ Olá,
 
 
 
+
+---
+
+## 🕹️ Mini jogo em JavaScript
+
+Criei um mini game de **Pedra, Papel e Tesoura** neste repositório para praticar lógica e front-end.
+
+### Como jogar
+1. Abra o arquivo `index.html` no navegador.
+2. Clique em Pedra, Papel ou Tesoura.
+3. Veja o resultado da rodada e o placar acumulado.
+4. Use "Reiniciar placar" para começar de novo.
